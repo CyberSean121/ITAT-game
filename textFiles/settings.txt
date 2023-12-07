@@ -1,0 +1,4 @@
+true
+ALL
+SLOW
+MEDIUM
